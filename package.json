@@ -1,0 +1,19 @@
+{
+  "name": "pwd",
+  "version": "1.0.0",
+  "description": "## Введение",
+  "main": "runner.js",
+  "scripts": {
+    "start": "node sudoku.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimKandareli/project-sudoku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimKandareli/project-sudoku/issues"
+  },
+  "homepage": "https://github.com/TimKandareli/project-sudoku#readme"
+}
